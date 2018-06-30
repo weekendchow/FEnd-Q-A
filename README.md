@@ -2,15 +2,15 @@
 Front end interview questions preparation.
 
 ## Contents
-- General
+- [General](https://github.com/weekendchow/interview-questions-preparation/blob/master/questions/General-questions.md)
 - [HTML](https://github.com/weekendchow/interview-questions-preparation/blob/master/questions/HTML-questions.md)
-- CSS
+- [CSS](https://github.com/weekendchow/interview-questions-preparation/blob/master/questions/CSS-questions.md)
 - JS
-- React
-- Network
+- [React](https://github.com/weekendchow/interview-questions-preparation/blob/master/questions/React-questions.md)
+- [Network](https://github.com/weekendchow/interview-questions-preparation/blob/master/questions/Network-questions.md)
 - Performance
 - Testing
-- Others
+- [Other](https://github.com/weekendchow/interview-questions-preparation/blob/master/questions/Other-questions.md)
 
 ## Links
 - [handbook](https://github.com/yangshun/front-end-interview-handbook)

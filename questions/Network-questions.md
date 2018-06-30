@@ -1,13 +1,13 @@
 # Network Questions
 
-* [Difference between GET & POST?](#difference-between-get-&-post)
+* [Difference between GET & POST?](#difference-between-get-post)
 * [HTTP status codes?](#http-status-codes)
 * [Web service?](#web-service)
 * [OSI model?](#osi-model)
-* [TCP/IP?](#tcp/ip)
+* [TCP/IP?](#tcpip)
 * [HTTP Request methods?](#http-request-methods)
-* [HTTPS negotiation steps?](#http-negotiation-steps)
-* [What is CORS? ](#what-is-cors )
+* [HTTPS negotiation steps?](#https-negotiation-steps)
+* [What is CORS? ](#what-is-cors)
 * [REST?](#rest)
 * [Web API?](#web-api)
 
@@ -103,7 +103,7 @@ request–response protocol in the client–server computing model
 [[↑] Back to top](#network-questions)
 
 
-### What is CORS? 
+### What is CORS?
 Cross-Origin Resource Sharing. Uses additional HTTP headers to let a user agent gain permission to access selected resources from a server on a different origin (domain) than the site currently in use. A user agent makes a cross-origin HTTP request when it requests a resource from a different domain, protocol, or port than the one from which the current document originated.
 
 ###### Reference
