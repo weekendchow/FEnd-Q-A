@@ -1,6 +1,6 @@
 # Network Questions
 
-* [Difference between GET & POST?](#difference-between-get-post)
+* [Difference between GET & POST?](#difference-between-get--post)
 * [HTTP status codes?](#http-status-codes)
 * [Web service?](#web-service)
 * [OSI model?](#osi-model)

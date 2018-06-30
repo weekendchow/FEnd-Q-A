@@ -1,7 +1,7 @@
 # General Questions
 
-* [Favorite features of html5 and css3?](#favorite-features-of-html5-and-css3?)
-* [Workflow when creating webpage?](#workflow-when-creating-webpage?)
+* [Favorite features of html5 and css3?](#favorite-features-of-html5-and-css3)
+* [Workflow when creating webpage?](#workflow-when-creating-webpage)
 
 
 ### Favorite features of html5 and css3?
