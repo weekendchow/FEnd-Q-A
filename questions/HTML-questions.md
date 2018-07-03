@@ -86,3 +86,29 @@
 * https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 
 [[↑] Back to top](#html-questions)
+
+
+### Describe the difference between a `cookie`, `sessionStorage` and `localStorage`.
+
+- **key-value** storage mechanisms on the client side / Only ***strings***
+#### `cookie`(4kb)
+- Initiate on client or server(Set-Cookie header).
+- **Manually** set expiry so the persistent across browser sessions depends.
+- **Automatically** -> server(Cookie header).
+- Access from any window.
+#### `localStorage`(5MB)
+- Initiate on client.
+- **Never** expire and **persist** across browser.
+- Do not -> server with every HTTP request.
+- Access from any window.
+#### `sessionStorage`(5MB)
+- Initiate on client.
+- Expire when **close the Tab** and do **not persist** across browser.
+- Do not -> server with every HTTP request.
+- Access on **same Tab**.
+
+###### Reference
+* https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies
+* http://tutorial.techaltum.com/local-and-session-storage.html
+
+[[↑] Back to top](#html-questions)
