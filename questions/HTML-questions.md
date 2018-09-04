@@ -174,4 +174,4 @@ If resolution is 2x, choose medium.jpg
 
 ### Have you used different HTML templating languages before?
 
-- Yes, Pug (formerly Jade), ERB, Slim, Handlebars, Jinja, Liquid, just to name a few. In my opinion, they are more or less the same and provide similar functionality of escaping content and helpful filters for manipulating the data to be displayed. Most templating engines will also allow you to inject your own filters in the event you need custom processing before display.
+- Yes,I'v used EJS with express. But I know there is a few like Pug (formerly Jade), ERB, Slim, Handlebars, underscore. In my opinion, they are more or less the same and provide similar functionality of escaping content and helpful filters for manipulating the data to be displayed. Most templating engines will also allow you to inject your own filters in the event you need custom processing before display.
