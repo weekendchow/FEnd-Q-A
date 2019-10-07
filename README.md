@@ -4,22 +4,22 @@ Front end basic concepts and questions.
 ## Contents
 - General
   - [Basic]() :hammer:	
-  - [Q&A](https://github.com/weekendchow/interview-questions-preparation/blob/master/questions/General-questions.md)
+  - [Q&A](https://github.com/weekendchow/FEnd-basic/blob/master/src/General/questions/General-questions.md)
 - HTML
   - [Basic]():hammer:	
-  - [Q&A](https://github.com/weekendchow/interview-questions-preparation/blob/master/questions/HTML-questions.md)
+  - [Q&A](https://github.com/weekendchow/FEnd-basic/tree/master/src/HTML/questions)
 - CSS
   - [Basic]():hammer:	
-  - [Q&A](https://github.com/weekendchow/interview-questions-preparation/blob/master/questions/CSS-questions.md)
+  - [Q&A](https://github.com/weekendchow/FEnd-basic/blob/master/src/CSS/questions/CSS-questions.md)
 - JS :hammer:	
 - React 
-  - [Q&A](https://github.com/weekendchow/interview-questions-preparation/blob/master/questions/React-questions.md)
+  - [Q&A](https://github.com/weekendchow/FEnd-basic/blob/master/src/React/questions/React-questions.md)
 - Network 
-  - [Q&A](https://github.com/weekendchow/interview-questions-preparation/blob/master/questions/Network-questions.md)
+  - [Q&A](https://github.com/weekendchow/FEnd-basic/blob/master/src/Network/questions/Network-questions.md)
 - Performance
 - Testing
 - Other
-  - [Q&A](https://github.com/weekendchow/interview-questions-preparation/blob/master/questions/Other-questions.md)
+  - [Q&A](https://github.com/weekendchow/FEnd-basic/blob/master/src/Other/questions/Other-questions.md)
 
 
 ## Links
