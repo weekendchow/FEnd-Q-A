@@ -1,4 +1,4 @@
-# fend-Q&A
+# FEnd-Q&A
 Front end interview questions preparation.
 
 ## Contents
